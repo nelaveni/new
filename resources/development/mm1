@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:namedConfiguration ns1:CLASS_NAME="com.fiorano.services.common.security.AuthenticationConfiguration" xmlns:ns2="uri:com.fiorano.services.common.jaxb.adapter" xmlns:ns1="uri:com.fiorano.services.common.security">
+    <ns1:passwordFromVault>false</ns1:passwordFromVault>
+    <ns1:customPasswordEncryption>false</ns1:customPasswordEncryption>
+    <ns1:authenticationRequired>false</ns1:authenticationRequired>
+    <ns1:type>BASIC</ns1:type>
+    <ns1:username></ns1:username>
+    <ns1:password></ns1:password>
+    <ns1:tokenUrl></ns1:tokenUrl>
+    <ns1:additionalProperties/>
+</ns1:namedConfiguration>
